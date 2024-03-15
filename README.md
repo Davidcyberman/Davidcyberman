@@ -2,9 +2,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / cloud projects</b>
-  - [Creating a Live SOC / Honeynet] (https://github.com/Davidcyberman/SOC)
-
-
+  - [Creating a Live SOC / Honeynet](https://github.com/Davidcyberman/SOC)
+  - [Incident Response Documentation on Findings](https://github.com/Davidcyberman/Incident-Response-Documentation-on-Findings)
 
 
 
